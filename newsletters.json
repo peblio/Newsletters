@@ -1,38 +1,38 @@
 {
   "newsletters": [
     {
-      volume: "1",
-      month: "Oct",
-      year: "2019",
-      articles: [
+      "volume": "1",
+      "month": "Oct",
+      "year": "2019",
+      "articles": [
         {
-          heading: "heading 1",
-          para: "this is an article number 1",
-          image: "https://placekitten.com/300/300"
+          "heading": "heading 1",
+          "para": "this is an article number 1",
+          "image": "https://placekitten.com/300/300"
         },
         {
-          heading: "heading 2",
-          para: "this is an article number 2",
-          image: "https://placekitten.com/300/300"
+          "heading": "heading 2",
+          "para": "this is an article number 2",
+          "image": "https://placekitten.com/300/300"
         }
       ]
     },
     {
-      volume: "2",
-      month: "Oct",
-      year: "2019",
-      articles: [
+      "volume": "2",
+      "month": "Oct",
+      "year": "2019",
+      "articles": [
         {
-          heading: "heading 3",
-          para: "this is an article number 3",
-          image: "https://placekitten.com/300/300"
+          "heading": "heading 3",
+          "para": "this is an article number 3",
+          "image": "https://placekitten.com/200/300"
         },
         {
-          heading: "heading 4",
-          para: "this is an article number 4",
-          image: "https://placekitten.com/300/300"
+          "heading": "heading 4",
+          "para": "this is an article number 4",
+          "image": "https://placekitten.com/200/300"
         }
       ]
-    }
+    },
   ]
 }
