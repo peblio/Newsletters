@@ -21,7 +21,7 @@
       "volume": "2",
       "month": "Oct",
       "year": "2019",
-      "intro": `
+      "intro": "
       Hello All! Hope you are having a fabulous week!
 
       Here’s what we have at Peblio for you this week:
@@ -29,7 +29,7 @@
       Profiles Feature
       CCfest - SF and LA!
       Featured Creator
-      `,
+      ",
       "articles": [
         {
           "heading": "1. Featured Curriculum",
