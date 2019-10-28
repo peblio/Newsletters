@@ -1,20 +1,38 @@
 {
-	"newsletters": [{
+	"newsletters": [
+		{
 			"volume": "1",
 			"month": "Oct",
 			"year": "2019",
+			"intro": "Welcome to Peblio's first ever newsletter! Firstly - thank you for using Peblio and hope you will enjoy our newsletter as well.<br>Here's what we have for you this week: <br>Why did we build Peblio<br>Featured curricula!<br>New features<br>Our upcoming talk at CCFest, San Francisco",
 			"articles": [{
-					"heading": "heading 1",
-					"para": "this is an article number 1",
-					"image": "https://placekitten.com/300/300"
+					"heading": "1. Why did we build Peblio",
+					"para": "We launched Peblio last year as a way to make it easy for teachers to write about code and share lessons and worksheets. The founders of Peblio are teachers, designers and educators, and designed Peblio with the help of our fellow teachers. We value your feedback and take feature requests very seriously so please take a minute to tell us how it's going!",
+					"image": "https://files.constantcontact.com/138ec2a4701/0da4264f-7a6d-4753-a2ea-47d6c95624b5.gif",
+					"linkText": "Give us your feedback here",
+					"link": "https://demo.peblio.co/pebl/yWzLLSWLM"
 				},
 				{
-					"heading": "heading 2",
-					"para": "this is an article number 2",
-					"image": "https://placekitten.com/300/300"
+					"heading": "2. Featured Curriculum",
+					"para": "Every newsletter we are going to be sharing some curriculum that we think you would be interested in! So do reach out and share with us <br>Here is this weeks curriculum - 'The Physics of Video Games' - by STEMCoding.",
+					"image": "https://files.constantcontact.com/138ec2a4701/0d444b44-b735-436a-bfc3-6fa735d816bc.gif",
+					"linkText": "Check out their curriculum here",
+					"link": "https://demo.peblio.co/profile/stemcoding/folder/rkhHW1iXH"
+				},
+				{
+					"heading": "3. New features",
+					"para": "One of the most awaited featured we made live is the full screen mode. We know you'd like to see all of your code when you're working, so here it is! You can also view only the output when you're in fullscreen mode if you'd like to show it off.",
+					"image": "https://files.constantcontact.com/138ec2a4701/c824cdd7-9997-45d7-ad2d-91237a2e6ca3.gif"
+				},
+				{
+					"heading": "4. Our upcoming talk at CCFest, San Francisco",
+					"para": "We are giving a Workshop  at CC Fest in San Francisco on October 19th on building meme generators in p5 and explaining how you can use Peblio in classrooms.",
+					"linkText": "Do visit us at the CC Fest in SF!",
+					"link": "https://ccfest.rocks/san-francisco"
 				}
 			]
-		},
+		}
+			,
 		{
 			"volume": "2",
 			"month": "Oct",
@@ -40,7 +58,7 @@
 					"link": "https://ccfest.rocks/los-angeles"
 				},
 				{
-					"heading": ". Featured Creator: Mathura",
+					"heading": "4. Featured Creator: Mathura",
 					"para": "This week we want to introduce you to one of our creators who is part of the Peblio team. In addition to being Peblio's lead developer, Mathura is a creative technologist and educator. Her work involves a lot of creative coding, LEDs and occasionally maps.",
 					"image": "https://files.constantcontact.com/138ec2a4701/109df702-0b91-4c21-8b10-21b7d69b8c4e.gif",
 					"linkText": "You can check out her work here",
