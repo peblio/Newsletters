@@ -1,63 +1,52 @@
 {
-  "newsletters": [
-    {
-      "volume": "1",
-      "month": "Oct",
-      "year": "2019",
-      "articles": [
-        {
-          "heading": "heading 1",
-          "para": "this is an article number 1",
-          "image": "https://placekitten.com/300/300"
-        },
-        {
-          "heading": "heading 2",
-          "para": "this is an article number 2",
-          "image": "https://placekitten.com/300/300"
-        }
-      ]
-    },
-    {
-      "volume": "2",
-      "month": "Oct",
-      "year": "2019",
-      "intro": "
-      Hello All! Hope you are having a fabulous week!
-
-      Here’s what we have at Peblio for you this week:
-      Featured curricula!
-      Profiles Feature
-      CCfest - SF and LA!
-      Featured Creator
-      ",
-      "articles": [
-        {
-          "heading": "1. Featured Curriculum",
-          "para": "Want to learn more p5.js - check out the content created by CS4All. This curriculum covers everything from small tutorials like flappy bird to full semester content for Interactive Computational Media (ICM) classes. They also have content for teacher training for the same topics as well",
-          "image": "https://files.constantcontact.com/138ec2a4701/8bd08027-4aa8-4b7f-be62-d7240ce37c98.png",
-          "linkText": "Check out their curriculum here",
-          "link": "https://demo.peblio.co/profile/CS4ALL/"
-        },
-        {
-          "heading": "2. Profiles in Peblio",
-          "para": "Building a Profile is a great way to showcase your craft. At Peblio, we always wanted to empower people from different communities to be able to do share their work. Peblio makes it easy for you to share your work with your colleagues, friends and family. If you have a non student account - you can access your profile under the account options.",
-          "image": "https://files.constantcontact.com/138ec2a4701/fb36bb88-6266-4e15-b2aa-95ea6684c7e4.gif"
-        },
-        {
-          "heading": "3. CCfest - SF and LA!",
-          "para": "Being around the student - teacher community is always energizing. We had an amazing time teaching students and teachers how to create memes with p5 using peblio last Saturday in SF! We’re going to be doing the same in LA this Saturday - so be sure to join us for our workshop - “Learning Arrays through meme generators",
-          "image": "https://files.constantcontact.com/138ec2a4701/e13d6a50-fb18-4bfb-87a7-e19048940999.png",
-          "linkText": "Click here to join us in LA",
-          "link": "https://ccfest.rocks/los-angeles"
-        },
-        {
-          "heading": ". Featured Creator: Mathura",
-          "para": "This week we want to introduce you to one of our creators who is part of the Peblio team. In addition to being Peblio's lead developer, Mathura is a creative technologist and educator. Her work involves a lot of creative coding, LEDs and occasionally maps.",
-          "image": "https://files.constantcontact.com/138ec2a4701/109df702-0b91-4c21-8b10-21b7d69b8c4e.gif",
-          "linkText": "You can check out her work here",
-          "link": "https://www.instagram.com/mathuramg/"
-        }
-      ]
-    }
-  ]
+	"newsletters": [{
+			"volume": "1",
+			"month": "Oct",
+			"year": "2019",
+			"articles": [{
+					"heading": "heading 1",
+					"para": "this is an article number 1",
+					"image": "https://placekitten.com/300/300"
+				},
+				{
+					"heading": "heading 2",
+					"para": "this is an article number 2",
+					"image": "https://placekitten.com/300/300"
+				}
+			]
+		},
+		{
+			"volume": "2",
+			"month": "Oct",
+			"year": "2019",
+			"intro": "\nHello All!Hope you are having a fabulous week!\nHere’ s what we have at Peblio for you this week: \nFeatured curricula!\nProfiles Feature\nCCfest - SF and LA!\nFeatured Creator",
+			"articles": [{
+					"heading": "1. Featured Curriculum",
+					"para": "Want to learn more p5.js - check out the content created by CS4All. This curriculum covers everything from small tutorials like flappy bird to full semester content for Interactive Computational Media (ICM) classes. They also have content for teacher training for the same topics as well",
+					"image": "https://files.constantcontact.com/138ec2a4701/8bd08027-4aa8-4b7f-be62-d7240ce37c98.png",
+					"linkText": "Check out their curriculum here",
+					"link": "https://demo.peblio.co/profile/CS4ALL/"
+				},
+				{
+					"heading": "2. Profiles in Peblio",
+					"para": "Building a Profile is a great way to showcase your craft. At Peblio, we always wanted to empower people from different communities to be able to do share their work. Peblio makes it easy for you to share your work with your colleagues, friends and family. If you have a non student account - you can access your profile under the account options.",
+					"image": "https://files.constantcontact.com/138ec2a4701/fb36bb88-6266-4e15-b2aa-95ea6684c7e4.gif"
+				},
+				{
+					"heading": "3. CCfest - SF and LA!",
+					"para": "Being around the student - teacher community is always energizing. We had an amazing time teaching students and teachers how to create memes with p5 using peblio last Saturday in SF! We’re going to be doing the same in LA this Saturday - so be sure to join us for our workshop - “Learning Arrays through meme generators",
+					"image": "https://files.constantcontact.com/138ec2a4701/e13d6a50-fb18-4bfb-87a7-e19048940999.png",
+					"linkText": "Click here to join us in LA",
+					"link": "https://ccfest.rocks/los-angeles"
+				},
+				{
+					"heading": ". Featured Creator: Mathura",
+					"para": "This week we want to introduce you to one of our creators who is part of the Peblio team. In addition to being Peblio's lead developer, Mathura is a creative technologist and educator. Her work involves a lot of creative coding, LEDs and occasionally maps.",
+					"image": "https://files.constantcontact.com/138ec2a4701/109df702-0b91-4c21-8b10-21b7d69b8c4e.gif",
+					"linkText": "You can check out her work here",
+					"link": "https://www.instagram.com/mathuramg/"
+				}
+			]
+		}
+	]
 }
