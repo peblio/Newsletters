@@ -4,7 +4,7 @@
 			"volume": "1",
 			"month": "Oct",
 			"year": "2019",
-			"intro": "Welcome to Peblio's first ever newsletter! Firstly - thank you for using Peblio and hope you will enjoy our newsletter as well.<br>Here's what we have for you this week: <br>Why did we build Peblio<br>Featured curricula!<br>New features<br>Our upcoming talk at CCFest, San Francisco",
+			"intro": "Welcome to Peblio's first ever newsletter! Firstly - thank you for using Peblio and hope you will enjoy our newsletter as well.\nHere's what we have for you this week: \nWhy did we build Peblio\nFeatured curricula!\nNew features\nOur upcoming talk at CCFest, San Francisco",
 			"articles": [{
 					"heading": "1. Why did we build Peblio",
 					"para": "We launched Peblio last year as a way to make it easy for teachers to write about code and share lessons and worksheets. The founders of Peblio are teachers, designers and educators, and designed Peblio with the help of our fellow teachers. We value your feedback and take feature requests very seriously so please take a minute to tell us how it's going!",
@@ -63,6 +63,40 @@
 					"image": "https://files.constantcontact.com/138ec2a4701/109df702-0b91-4c21-8b10-21b7d69b8c4e.gif",
 					"linkText": "You can check out her work here",
 					"link": "https://www.instagram.com/mathuramg/"
+				}
+			]
+		}
+			,
+		{
+			"volume": "3",
+			"month": "Nov",
+			"year": "2019",
+			"intro": "\nHello All!Hope you are having a fabulous week!\nHere’ s what we have at Peblio for you this week: \nFeatured curricula!\nDashboards in Peblio\nCCfest comes to NY\nMeet Paper Crane Lab",
+			"articles": [{
+					"heading": "1. Featured Curriculum",
+					"para": "Storyboards with Scratch\nBuild storyboards with scratch in this quick, 3 lesson Unit designed for beginners. No coding background necessary.\nThese lessons are flexible and engaging; a perfect pick for teachers looking to bring coding into another class.",
+					"image": "https://files.constantcontact.com/138ec2a4701/4a650b98-0051-4e97-82c4-81df8d87e3d1.gif",
+					"linkText": "Check out their curriculum here",
+					"link": "https://demo.peblio.co/profile/CT-CSTA/folder/HJi71g10gP7"
+				},
+				{
+					"heading": "2. Dashboards in Peblio",
+					"para": "Need a place to organize your lessons?\nDashboards in Peblio can help!\nWith Dashboards, we have made it easy for you to store and maintain your work in one place, hassle free.",
+					"image": "https://files.constantcontact.com/138ec2a4701/fb36bb88-6266-4e15-b2aa-95ea6684c7e4.gif"
+				},
+				{
+					"heading": "3. CCfest comes to NY",
+					"para": "We had a great time teaching students and teachers how to create memes with p5 using Peblio last Saturday in LA.\nCC fest is now coming to our home turf - NY on Dec 8th!\nWe will be running a workshop based on our latest workshop - Generative Portraits using p5.js.",
+					"image": "https://files.constantcontact.com/138ec2a4701/1f47518a-cf25-4fee-8a21-0bc830b55974.gif",
+					"linkText": "Click here to learn more about CCFest",
+					"link": "https://ccfest.rocks/"
+				},
+				{
+					"heading": "4. Meet Paper Crane Lab",
+					"para": "Peblio is being used across countries not just by academic audience but also by organizations.\nOne such organization is Paper crane lab - an ed-tech space in Bangalore, India.\nPaper Crane Lab curates workshops and classes for those who are passionate about tech-art.\nPeblio enables them to bring more creativity and art into their workshops.",
+					"image": "https://files.constantcontact.com/138ec2a4701/b11f79e8-ddea-4d84-96c7-c41398c560bc.png",
+					"linkText": "You can check out their website here",
+					"link": "https://home.papercranelab.com/"
 				}
 			]
 		}
