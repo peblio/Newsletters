@@ -4,24 +4,24 @@
 			"volume": "1",
 			"month": "Oct",
 			"year": "2019",
-			"intro": "Welcome to Peblio's first ever newsletter! Firstly - thank you for using Peblio and hope you will enjoy our newsletter as well.\n\nHere's what we have for you this week:",
+			"intro": "Welcome to Peblio's first ever newsletter! Firstly - thank you for using Peblio and hope you will enjoy our newsletter as well.\nHere's what we have for you this week:",
 			"articles": [{
 					"heading": "1. Why did we build Peblio",
-					"para": "We launched Peblio last year as a way to make it easy for teachers to write about code and share lessons and worksheets. The founders of Peblio are teachers, designers and educators, and designed Peblio with the help of our fellow teachers. We value your feedback and take feature requests very seriously so please take a minute to tell us how it's going!",
+					"para": "We launched Peblio last year as a way to make it easy for teachers to write about code and share lessons and worksheets. \nThe founders of Peblio are teachers, designers and educators, and designed Peblio with the help of our fellow teachers. \nWe value your feedback and take feature requests very seriously so please take a minute to tell us how it's going!",
 					"image": "https://files.constantcontact.com/138ec2a4701/0da4264f-7a6d-4753-a2ea-47d6c95624b5.gif",
 					"linkText": "Give us your feedback here",
 					"link": "https://demo.peblio.co/pebl/yWzLLSWLM"
 				},
 				{
 					"heading": "2. Featured Curriculum",
-					"para": "Every newsletter we are going to be sharing some curriculum that we think you would be interested in! So do reach out and share with us <br>Here is this weeks curriculum - 'The Physics of Video Games' - by STEMCoding.",
+					"para": "Every newsletter we are going to be sharing some curriculum that we think you would be interested in! So do reach out and share with us.\nHere is this weeks curriculum - 'The Physics of Video Games' - by STEMCoding.",
 					"image": "https://files.constantcontact.com/138ec2a4701/0d444b44-b735-436a-bfc3-6fa735d816bc.gif",
 					"linkText": "Check out their curriculum here",
 					"link": "https://demo.peblio.co/profile/stemcoding/folder/rkhHW1iXH"
 				},
 				{
 					"heading": "3. New features",
-					"para": "One of the most awaited featured we made live is the full screen mode. We know you'd like to see all of your code when you're working, so here it is! You can also view only the output when you're in fullscreen mode if you'd like to show it off.",
+					"para": "One of the most awaited featured we made live is the full screen mode. We know you'd like to see all of your code when you're working, so here it is! \nYou can also view only the output when you're in fullscreen mode if you'd like to show it off.",
 					"image": "https://files.constantcontact.com/138ec2a4701/c824cdd7-9997-45d7-ad2d-91237a2e6ca3.gif"
 				},
 				{
@@ -40,26 +40,26 @@
 			"intro": "\nHello All!Hope you are having a fabulous week!\nHere’ s what we have at Peblio for you this week:",
 			"articles": [{
 					"heading": "1. Featured Curriculum",
-					"para": "Want to learn more p5.js - check out the content created by CS4All. This curriculum covers everything from small tutorials like flappy bird to full semester content for Interactive Computational Media (ICM) classes. They also have content for teacher training for the same topics as well",
+					"para": "Want to learn more p5.js - check out the content created by CS4All. This curriculum covers everything from small tutorials like flappy bird to full semester content for Interactive Computational Media (ICM) classes. \nThey also have content for teacher training for the same topics as well",
 					"image": "https://files.constantcontact.com/138ec2a4701/8bd08027-4aa8-4b7f-be62-d7240ce37c98.png",
 					"linkText": "Check out their curriculum here",
 					"link": "https://demo.peblio.co/profile/CS4ALL/"
 				},
 				{
 					"heading": "2. Profiles in Peblio",
-					"para": "Building a Profile is a great way to showcase your craft. At Peblio, we always wanted to empower people from different communities to be able to do share their work. Peblio makes it easy for you to share your work with your colleagues, friends and family. If you have a non student account - you can access your profile under the account options.",
+					"para": "Building a Profile is a great way to showcase your craft. At Peblio, we always wanted to empower people from different communities to be able to do share their work. Peblio makes it easy for you to share your work with your colleagues, friends and family. \nIf you have a non student account - you can access your profile under the account options.",
 					"image": "https://files.constantcontact.com/138ec2a4701/fb36bb88-6266-4e15-b2aa-95ea6684c7e4.gif"
 				},
 				{
 					"heading": "3. CCfest - SF and LA!",
-					"para": "Being around the student - teacher community is always energizing. We had an amazing time teaching students and teachers how to create memes with p5 using peblio last Saturday in SF! We’re going to be doing the same in LA this Saturday - so be sure to join us for our workshop - “Learning Arrays through meme generators",
+					"para": "Being around the student - teacher community is always energizing. We had an amazing time teaching students and teachers how to create memes with p5 using peblio last Saturday in SF! \nWe’re going to be doing the same in LA this Saturday - so be sure to join us for our workshop - “Learning Arrays through meme generators",
 					"image": "https://files.constantcontact.com/138ec2a4701/e13d6a50-fb18-4bfb-87a7-e19048940999.png",
 					"linkText": "Click here to join us in LA",
 					"link": "https://ccfest.rocks/los-angeles"
 				},
 				{
 					"heading": "4. Featured Creator: Mathura",
-					"para": "This week we want to introduce you to one of our creators who is part of the Peblio team. In addition to being Peblio's lead developer, Mathura is a creative technologist and educator. Her work involves a lot of creative coding, LEDs and occasionally maps.",
+					"para": "This week we want to introduce you to one of our creators who is part of the Peblio team. In addition to being Peblio's lead developer, Mathura is a creative technologist and educator. \nHer work involves a lot of creative coding, LEDs and occasionally maps.",
 					"image": "https://files.constantcontact.com/138ec2a4701/109df702-0b91-4c21-8b10-21b7d69b8c4e.gif",
 					"linkText": "You can check out her work here",
 					"link": "https://www.instagram.com/mathuramg/"
