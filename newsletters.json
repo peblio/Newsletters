@@ -4,7 +4,7 @@
 			"volume": "1",
 			"month": "Oct",
 			"year": "2019",
-			"intro": "Welcome to Peblio's first ever newsletter! Firstly - thank you for using Peblio and hope you will enjoy our newsletter as well.\nHere's what we have for you this week: \nWhy did we build Peblio\nFeatured curricula!\nNew features\nOur upcoming talk at CCFest, San Francisco",
+			"intro": "Welcome to Peblio's first ever newsletter! Firstly - thank you for using Peblio and hope you will enjoy our newsletter as well.\n\nHere's what we have for you this week:",
 			"articles": [{
 					"heading": "1. Why did we build Peblio",
 					"para": "We launched Peblio last year as a way to make it easy for teachers to write about code and share lessons and worksheets. The founders of Peblio are teachers, designers and educators, and designed Peblio with the help of our fellow teachers. We value your feedback and take feature requests very seriously so please take a minute to tell us how it's going!",
@@ -37,7 +37,7 @@
 			"volume": "2",
 			"month": "Oct",
 			"year": "2019",
-			"intro": "\nHello All!Hope you are having a fabulous week!\nHere’ s what we have at Peblio for you this week: \nFeatured curricula!\nProfiles Feature\nCCfest - SF and LA!\nFeatured Creator",
+			"intro": "\nHello All!Hope you are having a fabulous week!\nHere’ s what we have at Peblio for you this week:",
 			"articles": [{
 					"heading": "1. Featured Curriculum",
 					"para": "Want to learn more p5.js - check out the content created by CS4All. This curriculum covers everything from small tutorials like flappy bird to full semester content for Interactive Computational Media (ICM) classes. They also have content for teacher training for the same topics as well",
@@ -71,7 +71,7 @@
 			"volume": "3",
 			"month": "Nov",
 			"year": "2019",
-			"intro": "\nHello All!Hope you are having a fabulous week!\nHere’ s what we have at Peblio for you this week: \nFeatured curricula!\nDashboards in Peblio\nCCfest comes to NY\nMeet Paper Crane Lab",
+			"intro": "\nHello All!Hope you are having a fabulous week!\nHere’ s what we have at Peblio for you this week:",
 			"articles": [{
 					"heading": "1. Featured Curriculum",
 					"para": "Storyboards with Scratch\nBuild storyboards with scratch in this quick, 3 lesson Unit designed for beginners. No coding background necessary.\nThese lessons are flexible and engaging; a perfect pick for teachers looking to bring coding into another class.",
