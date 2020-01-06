@@ -100,5 +100,34 @@
 				}
 			]
 		}
+		,
+		{
+			"volume": "4",
+			"month": "Jan",
+			"year": "2020",
+			"intro": "Wishing you a Happy New Year! \n\nWe at Peblio, started building this web app two years ago with a vision of creating a set of tools and a resource sharing platform that would support the new and growing community of computer science educators in middle schools, high school, and informal education settings.\nWith 2,000 new users and 18,000 new pages, we’re growing our community of computer science educators who share resources with one another and customize their materials to meet the unique needs of their students.\n\nBased on your feedback, we built these features over the past 12 months:\nProfiles: A organized way to share your work with your colleagues, friends and family\nDashboards: A perfect place to organize your lessons\nStudios: A quick and easy way to showcase your student work\n\nWe can’t wait to build our teacher dashboard, classrooms feature, version control tools, and add new languages and features to improve our platform this year.\nWe’ve loved hearing from and working with our teachers and hope you’ll continue to reach out and work with us to help us grow and improve in 2020.\n\nHappy new year and thank you for being a part of the Peblio family! ",
+			"articles": [{
+					"heading": "1. Check out this tutorial to learn how to create this bubble letter animation!",
+					"para": "",
+					"image": "https://files.constantcontact.com/138ec2a4701/29529d92-74a9-4012-bb0d-eff78745fd98.gif",
+					"linkText": "Check out the tutorial here",
+					"link": "https://demo.peblio.co/pebl/Ys3wS4Ler"
+				},
+				{
+					"heading": "2. Check out our first Hour of code",
+					"para": "Our introductory Hour of code teaches you how to make interactive artworks in p5.js",
+					"image": "https://files.constantcontact.com/138ec2a4701/4b35ba05-5c07-4d8d-9ea2-500144b28c20.gif",
+					"linkText": "Check it out here!",
+					"link": "https://peblio-community-site.webflow.io/hour-of-code"
+				},
+				{
+					"heading": "3. Check out our new Hour of code",
+					"para": "Our new hour of code teaches you how to make generative portraits in p5.js. It's a great follow up to the first Hour of Code.",
+					"image": "https://s3.amazonaws.com/peblio-files/estherhersh/images/ryXaNh-hr_hopper.gif",
+					"linkText": "Check it out here!",
+					"link": "https://peblio-community-site.webflow.io/hour-of-code-computational-portraiture"
+				}
+			]
+		}
 	]
 }
